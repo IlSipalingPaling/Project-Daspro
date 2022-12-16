@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tugas Daspro</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+</head>
+<body>
+    <div id="app">
+        <h1> To Do List</h1>
+        <input type="text" v-model="todo">
+        <button v-on:click="storeTodo">Tambah List</button>
+        <p v-if="!todos.length">Tidak ada List</p>
+        <ul v-if="todos.length">
+            <li v-for="(todo,index) in todos">{{ todo }} 
+                <button v-on:click="removeTodo(index)">x</button>
+            </li>
+        </ul>
+    </div>
+    <script>
+        new Vue({
+            el: '#app',
+            data: {todo:'', todos: []},
+         methods: {
+            storeTodo(){this.todos.push(this.todo)
+                this.todo=''},
+            removeTodo(index){this.todos.splice(index,1)}
+         }
+        })
+    </script>
+</body>
+</html>

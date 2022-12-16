@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Battle Tank v2\obj\Debug\net6.0\Battle Tank v2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Battle Tank v2\obj\Debug\net6.0\Battle Tank v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Battle Tank v2\obj\Debug\net6.0\Battle Tank v2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Battle Tank v2\obj\Debug\net6.0\Battle Tank v2.AssemblyInfo.cs
+C:\Users\user\Desktop\Battle Tank v2\obj\Debug\net6.0\Battle Tank v2.csproj.CoreCompileInputs.cache

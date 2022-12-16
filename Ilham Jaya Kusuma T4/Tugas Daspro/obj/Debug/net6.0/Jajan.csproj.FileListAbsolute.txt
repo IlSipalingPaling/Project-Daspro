@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Jajan\bin\Debug\net6.0\Jajan.exe
+C:\Users\user\Desktop\Jajan\bin\Debug\net6.0\Jajan.deps.json
+C:\Users\user\Desktop\Jajan\bin\Debug\net6.0\Jajan.runtimeconfig.json
+C:\Users\user\Desktop\Jajan\bin\Debug\net6.0\Jajan.dll
+C:\Users\user\Desktop\Jajan\bin\Debug\net6.0\Jajan.pdb
+C:\Users\user\Desktop\Jajan\obj\Debug\net6.0\Jajan.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Jajan\obj\Debug\net6.0\Jajan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Jajan\obj\Debug\net6.0\Jajan.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Jajan\obj\Debug\net6.0\Jajan.AssemblyInfo.cs
+C:\Users\user\Desktop\Jajan\obj\Debug\net6.0\Jajan.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Jajan\obj\Debug\net6.0\Jajan.dll
+C:\Users\user\Desktop\Jajan\obj\Debug\net6.0\refint\Jajan.dll
+C:\Users\user\Desktop\Jajan\obj\Debug\net6.0\Jajan.pdb
+C:\Users\user\Desktop\Jajan\obj\Debug\net6.0\Jajan.genruntimeconfig.cache
+C:\Users\user\Desktop\Jajan\obj\Debug\net6.0\ref\Jajan.dll
